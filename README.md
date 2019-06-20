@@ -1,10 +1,10 @@
-# Quickstart Typescript + VS Code + Live Server Template
-The simplest way to get a static website using Typescript up and running locally.
+#  Typescript + VS Code + Live Server Template
+The simplest way to get a static website that uses Typescript running locally.
 * [Typescript](https://www.typescriptlang.org/)
 * [VS Code](https://code.visualstudio.com/)
 * [VS Code Live Server Extension](https://ritwickdey.github.io/vscode-live-server/)  ([Source](https://github.com/ritwickdey/vscode-live-server))
 
-Getting Started
+## Getting Started
 1. Download and install [VS Code](https://code.visualstudio.com/)
 2. Ensure that the Typescript compiler is [set up for VS Code](https://code.visualstudio.com/Docs/languages/typescript)
     * Requires node.js + npm
